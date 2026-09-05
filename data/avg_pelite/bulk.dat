@@ -1,0 +1,5 @@
+# HEADER
+title; comments; db; sysUnit; oxide; frac; frac2
+# BULK-ROCK COMPOSITION
+avgpelite;petropandas;mp;mol;[SiO2, Al2O3, CaO, MgO, FeO, K2O, Na2O, TiO2, O, MnO, H2O];[61.5428, 10.7347, 1.2660, 3.2294, 5.3527, 2.1983, 1.5273, 0.6297, 0.1500, 0.1001, 13.2691];
+
