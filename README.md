@@ -32,7 +32,7 @@ uv run jupyter lab
 
 This installs the exact `petropandas`/`pypsbuilder` versions the notebooks
 and slides were built and tested against (pinned in `pyproject.toml` /
-`uv.lock`). See [`install.md`](install.md) for full setup instructions,
+`uv.lock`). See [`installation.md`](installation.md) for full setup instructions,
 including the automated THERMOCALC setup (`uv run tcinit`) needed for
 Module 2, and the Julia/MAGEMinApp setup for Module 3.
 
